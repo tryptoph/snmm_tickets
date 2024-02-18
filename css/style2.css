@@ -1,0 +1,49 @@
+.panel-title{font-size: 30px;}
+.form-control {
+font-size: 18px; 
+padding: 10px; }
+h1{
+    font-size:30px;
+    color:#00FFC5;
+    
+}
+
+.panel
+{
+background: #1c1c1c;
+border-radius: 8px;
+}
+.col-md-6{
+    bottom: 10%;
+
+}
+.all{
+    background-image:url(snmm.jpg);
+    background-size: cover;
+    overflow: hidden;
+    height: 100vh;
+
+}
+.container .form-group .forget-btn{
+    text-align: right;
+}
+
+.container .form-group .forget-btn button
+    {
+    border: none;
+    background-color: #4381C1;
+    outline: none;
+    font-weight: 450;
+    cursor: pointer;
+    margin-right:3.5%;
+    font-size: 15px;
+
+    
+}
+
+.forget-btn button a {
+    text-decoration: none; /* Remove underline */
+    color: #FAF3DD; /* Change text color to red */
+  }
+  
+  

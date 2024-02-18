@@ -1,0 +1,22 @@
+.ticket-title {
+	font-weight:bold;
+	font-size:20px;
+	margin-left:10px;
+}
+.answered {
+	font-size:10px;
+	color:#ffffff;
+	background-color:#7079d6;
+	margin:0px 0px 0px 5px;
+}
+
+.navbar-inverse .navbar-nav .active > a,
+.navbar-inverse .navbar-nav .active > a:focus,
+.navbar-inverse .navbar-nav .active > a:hover {
+    background-color: #004d40; 
+    color: #ffffff;
+}
+
+
+
+
